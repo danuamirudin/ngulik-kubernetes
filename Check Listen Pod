@@ -1,0 +1,4 @@
+kubectl get pod go-deployment-577c75c696-2gmp4 --template='{{(index (index .spec.containers 0).ports 0).containerPort}}{{"\n"}}'
+
+# Nama POD bisa diganti
+go-deployment-577c75c696-2gmp4
