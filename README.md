@@ -1,2 +1,2 @@
 # ngulik-kubernetes
-Hand-made repository in my journey on shipping K8S
+Hand-made note in my journey on shipping K8S
